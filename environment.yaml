@@ -1,0 +1,11 @@
+name: geeData
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python 
+  - pip 
+  - earthengine-api 
+  - pillow 
+  - numpy 
+  
